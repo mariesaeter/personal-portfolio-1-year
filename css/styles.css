@@ -53,6 +53,9 @@ h2 {
   text-align: center;
 }
 
+p {
+  line-height: 1.8;
+}
 .card-container {
   display: flex;
   flex-wrap: wrap;
